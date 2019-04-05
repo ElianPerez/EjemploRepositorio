@@ -4,3 +4,4 @@ if (x-y ==0):
     print("Es entero")
 else:
     print("es flotante")
+print("Creo que asi es")
