@@ -1,2 +1,0 @@
-# EjemploRepositorio
-Descripción del repositorio 
